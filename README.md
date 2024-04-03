@@ -4,12 +4,13 @@ Overview
 Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected mosquitoes. Accurate detection and classification of malaria species from microscopic images play a crucial role in diagnosis and treatment.
 
 This project aims to develop a deep learning model using PyTorch and Faster R-CNN architecture to detect and classify malaria species from microscopic images. The model is trained on a dataset containing images of malaria-infected blood smears.
-Features
 
-    Implementation of Faster R-CNN for object detection and classification.
-    Training the model using PyTorch on a custom dataset.
-    Evaluation of model performance using various backbone architectures.
-    Testing the model on unseen data to assess its accuracy and generalization.
+Features include:
+
+Implementation of Faster R-CNN for object detection and classification.
+Training the model using PyTorch on a custom dataset.
+Evaluation of model performance using various backbone architectures.
+Testing the model on unseen data to assess its accuracy and generalization.
 
 Dataset
 
